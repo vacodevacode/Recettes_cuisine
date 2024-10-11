@@ -1,0 +1,18 @@
+{
+    "id": 2,
+    "titre": "Salade César",
+    "description": "Une salade fraîche et croquante, parfaite pour un déjeuner léger.",
+    "ingredients": [
+        "1 laitue romaine",
+        "200g de blanc de poulet",
+        "50g de parmesan râpé",
+        "Croûtons de pain",
+        "Pour la sauce: mayonnaise, moutarde, anchois, ail, jus de citron"
+    ],
+    "etapes": [
+        "Couper la laitue en lanières et la mettre dans un grand saladier.",
+        "Griller le poulet et le couper en tranches, puis l'ajouter à la salade.",
+        "Préparer la sauce César en mixant tous les ingrédients et verser sur la salade.",
+        "Ajouter les croûtons et le parmesan, mélanger délicatement et servir."
+    ]
+}
